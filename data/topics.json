@@ -1,0 +1,17 @@
+[
+  { "id": 1, "name": "JavaScript", "category": "Programming" },
+  { "id": 2, "name": "Java", "category": "Programming" },
+  { "id": 3, "name": "Jupyter", "category": "Data Science" },
+  { "id": 4, "name": "Jest", "category": "Testing" },
+  { "id": 5, "name": "JSON", "category": "Data Format" },
+  { "id": 6, "name": "Joomla", "category": "CMS" },
+  { "id": 7, "name": "JSP", "category": "Web Technology" },
+  { "id": 8, "name": "Python", "category": "Programming" },
+  { "id": 9, "name": "C++", "category": "Programming" },
+  { "id": 10, "name": "Ruby", "category": "Programming" },
+  { "id": 11, "name": "Swift", "category": "Programming" },
+  { "id": 12, "name": "React.js", "category": "Frontend" },
+  { "id": 13, "name": "C#", "category": "Programming" },
+  { "id": 14, "name": "Node.js", "category": "Backend" },
+  { "id": 15, "name": "Go", "category": "Programming" }
+]
